@@ -6,6 +6,7 @@ import App from "./App.vue";
 import Home from "./pages/Home.vue";
 import About from "./pages/About.vue";
 import Contact from "./pages/Contact.vue";
+import ReDirect from "./pages/Redirect.vue";
 // import Liff from "./pages/LIFF.vue";
 //#####
 
@@ -25,6 +26,11 @@ const routes = [
     path: "/contact",
     name: "contact",
     component: Contact,
+  },
+  {
+    path: "/redirect",
+    name: "redirect",
+    component: ReDirect,
   },
   // {
   //   path: "/liff",
