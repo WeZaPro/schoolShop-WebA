@@ -5,7 +5,9 @@
     <button @click="siteB">siteB</button>
   </div> -->
     <!-- <a href="https://line.me/ti/p/@985lgfum"> -->
-    <a href="https://liff.line.me/1656824759-PrZzVE5w">
+
+    <!-- <a href="https://liff.line.me/1656824759-PrZzVE5w"> -->
+    <a href="https://liff.line.me/1656824759-8lnLR5ak">
       <button id="btn">LINE @</button>
     </a>
   </div>
