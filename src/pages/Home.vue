@@ -12,7 +12,7 @@
       <button id="btn">LINE @</button>
     </a> -->
 
-    <a href="https://line.me/ti/p/@798hmctv">
+    <a href="https://line.me/ti/p/@798hmctv" target="_blank" rel="noreferrer">
       <button id="btn">LINE @</button>
     </a>
   </div>
