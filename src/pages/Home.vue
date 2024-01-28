@@ -12,7 +12,11 @@
       <button id="btn">LINE @</button>
     </a> -->
 
-    <a href="https://line.me/ti/p/@798hmctv" target="_blank" rel="noreferrer">
+    <a
+      href="https://liff.line.me/1656824759-lWmGEYa5"
+      target="_blank"
+      rel="noreferrer"
+    >
       <button id="btn">LINE @</button>
     </a>
   </div>
