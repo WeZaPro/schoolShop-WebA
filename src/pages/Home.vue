@@ -7,7 +7,12 @@
     <!-- <a href="https://line.me/ti/p/@985lgfum"> -->
 
     <!-- <a href="https://liff.line.me/1656824759-PrZzVE5w"> -->
-    <a href="https://liff.line.me/1656824759-lWmGEYa5">
+
+    <!-- <a href="https://liff.line.me/1656824759-lWmGEYa5">
+      <button id="btn">LINE @</button>
+    </a> -->
+
+    <a href="https://line.me/ti/p/@798hmctv">
       <button id="btn">LINE @</button>
     </a>
   </div>
