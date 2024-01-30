@@ -17,13 +17,13 @@
       target="_blank"
       rel="noreferrer"
     > -->
-    <a
-      href="https://schoolshopliffweb.onrender.com/liffweb"
-      target="_blank"
-      rel="noreferrer"
-    >
+    <!-- <a href="https://schoolshopliffweb.onrender.com/liffweb">
       <button id="btn">LINE @</button>
-    </a>
+    </a> -->
+
+    <div id="btn">
+      <button @click="openLiffAppWeb">GOTO Line@</button>
+    </div>
   </div>
 </template>
 
@@ -85,6 +85,9 @@ export default {
     //   });
   },
   methods: {
+    openLiffAppWeb() {
+      window.location.href = "https://schoolshopliffweb.onrender.com/liffweb";
+    },
     // siteB() {
     //   console.log("openLineChat--> ");
     //   window.open("https://liff.line.me/1656824759-lQKpOazZ", "_blank");
