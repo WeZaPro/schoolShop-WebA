@@ -21,8 +21,8 @@
       <button id="btn">LINE @</button>
     </a> -->
 
-    <div id="btn">
-      <button @click="openLiffAppWeb">GOTO Line@</button>
+    <div id="divBtn">
+      <button id="btn" @click="openLiffAppWeb">GOTO Line@</button>
     </div>
   </div>
 </template>
