@@ -86,7 +86,7 @@ export default {
   },
   methods: {
     openLiffAppWeb() {
-      window.location.href = "https://schoolshopliffweb.onrender.com/liffweb";
+      window.location.href = "https://liffcontrol.onrender.com/liffweb";
     },
     // siteB() {
     //   console.log("openLineChat--> ");
