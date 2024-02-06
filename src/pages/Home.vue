@@ -86,8 +86,9 @@ export default {
   },
   methods: {
     openLiffAppWeb() {
-      (window.location.href = "https://liffcontrol.onrender.com/liffweb"),
-        "_blank";
+      // (window.location.href = "https://liffcontrol.onrender.com/liffweb"),
+      //   "_blank";
+      window.open("https://liffcontrol.onrender.com/liffweb", "_blank");
     },
     // siteB() {
     //   console.log("openLineChat--> ");
