@@ -89,7 +89,7 @@ export default {
       // (window.location.href = "https://liffcontrol.onrender.com/liffweb"),
       //   "_blank";
       //window.open("https://liffcontrol.onrender.com/liffweb", "_blank");
-      window.open("https://liff.line.me/1656824759-rDPMYe3E")
+      window.open("https://1f7e-223-204-235-121.ngrok-free.app/liffweb")
     },
     // siteB() {
     //   console.log("openLineChat--> ");
