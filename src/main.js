@@ -61,11 +61,11 @@ const router = createRouter({
 //createApp(App).use(router).mount("#app");
 createApp(App)
   .use(router)
-  .use(
-    createGtm({
-      id: "GTM-WQC9MPLJ", // GTM ID
-    })
-  )
+  // .use(
+  //   createGtm({
+  //     id: "GTM-WQC9MPLJ", // GTM ID
+  //   })
+  // )
   .mount("#app");
 //
 // createApp(App)
