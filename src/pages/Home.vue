@@ -89,7 +89,8 @@ export default {
       // (window.location.href = "https://liffcontrol.onrender.com/liffweb"),
       //   "_blank";
       //window.open("https://liffcontrol.onrender.com/liffweb", "_blank");
-      window.open("https://schoolshopliffapp.onrender.com/liffweb")
+      //window.open("https://schoolshopliffapp.onrender.com/liffweb")
+      window.open("https://schoolshopliffapp.onrender.com/")
     },
     // siteB() {
     //   console.log("openLineChat--> ");
