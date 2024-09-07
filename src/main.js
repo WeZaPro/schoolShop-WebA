@@ -59,14 +59,45 @@ const router = createRouter({
 // });
 
 //createApp(App).use(router).mount("#app");
-createApp(App)
-  .use(router)
-  .use(
-    createGtm({
-      id: "GTM-WQC9MPLJ", // GTM ID
-    })
-  )
-  .mount("#app");
+
+
+
+
+// createApp(App)
+//   .use(router)
+//   .use(
+//     createGtm({
+//       id: "GTM-WQC9MPLJ", // GTM ID
+//     })
+//   )
+//   .mount("#app");
+
+
+
+const app = createApp(App);
+
+app.use(router);
+
+app.mixin({
+  mounted() {
+    const script1 = document.createElement('script');
+    script1.src = `https://www.googletagmanager.com/gtm.js?id=GTM-M4CGM7TC`;
+    script1.async = true;
+    document.head.appendChild(script1);
+
+    const script2 = document.createElement('script');
+    script2.src = `https://www.googletagmanager.com/gtm.js?id=GTM-WQC9MPLJ`;
+    script2.async = true;
+    document.head.appendChild(script2);
+  }
+});
+
+app.mount('#app');
+
+
+
+
+
 //
 // createApp(App)
 //   .use(
