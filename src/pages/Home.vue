@@ -22,7 +22,7 @@
     </a> -->
 
     <div id="divBtn">
-      <button id="btn" @click="openLiffAppWeb">GOTO Line@</button>
+      <button id="btn" @click="openLiffAppWeb">GOTO - Line@</button>
     </div>
   </div>
 </template>
