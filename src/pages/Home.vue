@@ -94,7 +94,7 @@ export default {
       
       //window.open("https://schoolshopliffweb.onrender.com/")
       //window.open("https://8d74-171-5-190-234.ngrok-free.app")
-      window.open("https://liff.line.me/1656824759-KYL5BkQ6")
+      window.open("https://liff.line.me/1656824759-KYL5BkQ6/?paramA=1234")
       
     },
     // siteB() {
