@@ -21,6 +21,8 @@
       <button id="btn">LINE @</button>
     </a> -->
 
+    <button id="test_btn">GOTO - Line@</button>
+
     <div id="divBtn">
       <button id="btn" @click="openLiffAppWeb">GOTO - Line@</button>
     </div>
