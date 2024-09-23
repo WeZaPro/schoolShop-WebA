@@ -21,11 +21,11 @@
       <button id="btn">LINE @</button>
     </a> -->
 
-    <button id="test_btn">GOTO - Line@</button>
+    <button id="test_btn">GOTO>>> - Line@</button>
 
-    <div id="divBtn">
-      <button id="btn" @click="openLiffAppWeb">GOTO - Line@</button>
-    </div>
+    //<div id="divBtn">
+    //  <button id="btn" @click="openLiffAppWeb">GOTO - Line@</button>
+    //</div>
   </div>
 </template>
 
@@ -97,7 +97,7 @@ export default {
       //window.open("https://schoolshopliffweb.onrender.com/")
       //window.open("https://8d74-171-5-190-234.ngrok-free.app")
       //window.open("https://liff.line.me/1656824759-KYL5BkQ6/?paramA=1234")
-      window.open("https://liff.line.me/1656824759-j1N4MAYk")
+      window.open("https://liff.line.me/1656824759-KYL5BkQ6")
       
     },
     // siteB() {
